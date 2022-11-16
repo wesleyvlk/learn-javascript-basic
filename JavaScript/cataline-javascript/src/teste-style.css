@@ -1,0 +1,39 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: sans-serif;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+  background: rgba(226, 226, 226, 1);
+}
+._container-appTest {
+  align-self: center;
+  color: rgb(6, 0, 37);
+  padding: 35.4px;
+  border-radius: 25px;
+  background: rgba(206, 199, 236, 1);
+}
+._appTest-title {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+  font-size: 50px;
+}
+._appTest-formTeste {
+  flex-flow: column wrap;
+}
+._formTeste-inputTeste {
+  display: inline-flex;
+  padding: 10px 0px 10px 25px;
+  margin: 10px 0 0 0;
+  border-radius: 25px;
+}
+._formTeste-buttonTeste {
+  display: inline-flex;
+  padding: 5px 10px 6px 10px;
+  margin: 5px 0 0 0;
+  border-radius: 25px;
+}
