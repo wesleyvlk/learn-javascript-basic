@@ -20,7 +20,7 @@ console.log(
 function Malhar(idade, peso) {
   if (idade < 28) {
     return peso - 2;
-  } else {
-    return peso - 1;
   }
+
+  return peso - 1;
 }

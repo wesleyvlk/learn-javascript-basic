@@ -1,4 +1,4 @@
-// concatenação
+// Concatenação
 // let product = "camisa";
 // let preco = 15;
 // console.log("O preço de", product, "é R$", preco);

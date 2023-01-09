@@ -15,11 +15,11 @@ for (let i = 0; i < array.length; i++) {
 
 let person = {
   name: "Wesley Brito",
-  height: 84.5,
+  height: 84.5
 };
 let age = {
   birthDate: "20/04/2000",
-  age: 22,
+  age: 22
 };
 let DataFull = Object.assign(person, age);
 DataFull.name = "Wesley Brito VLK";
